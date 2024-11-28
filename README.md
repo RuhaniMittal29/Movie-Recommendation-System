@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System 🍿🎬
 
 In the age of digital entertainment, finding the perfect movie to watch can be a daunting task given the vast array of options available. A Movie Recommendation System aims to simplify this process by leveraging data to suggest movies that align with the user's preferences. This project focuses on building a recommendation system that provides personalized movie suggestions based on various attributes such as genres, ratings, and other metadata.
 
