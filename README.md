@@ -5,7 +5,7 @@
 - [Approach and Methodology](#approach-&-methodology)
 - [Technology Stack](#technology-stack)
 
-##Introduction
+## Introduction
 
 In the age of digital entertainment, discovering the right movie from thousands of options can be overwhelming. A Movie Recommendation System simplifies this process by analyzing movie metadata to suggest films tailored to a user's interests.
 
